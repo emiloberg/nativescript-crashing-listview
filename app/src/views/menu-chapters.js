@@ -43,3 +43,4 @@ chapters.on(Observable.propertyChangeEvent, function(propertyChangeData) {
 
 module.exports.navigatedTo = navigatedTo;
 module.exports.loaded = loaded;
+
