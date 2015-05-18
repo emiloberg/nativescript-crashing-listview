@@ -6,9 +6,9 @@ Environment  LANG=en_US.US-ASCII PATH=/Applications/Xcode.app/Contents/Developer
 BuilderIdent ProcessPCH\ /Users/emiloberg/mobile/native-script/rekapp/platforms/ios/build/sharedpch/rekapp-Prefix-hfvsxtnjgxqbkjbxsemxqkhsovdd/rekapp-Prefix.pch.pch\ rekapp/rekapp-Prefix.pch\ normal\ i386\ objective-c\ com.apple.compilers.llvm.clang.1_0.compiler
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.3.sdk/SDKSettings.plist 0 1425669647 964 33204
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.3.sdk/System/Library/CoreServices/SystemVersion.plist 0 1427692226 413 33188
-InputFile    /Users/emiloberg/mobile/native-script/rekapp/platforms/ios/rekapp/rekapp-Prefix.pch 0 1431878796 344 33188
+InputFile    /Users/emiloberg/mobile/native-script/rekapp/platforms/ios/rekapp/rekapp-Prefix.pch 0 1431949793 344 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.3.sdk/SDKSettings.plist 0 1425669647 964 33204
-InputFile    /Users/emiloberg/mobile/native-script/rekapp/platforms/ios/rekapp/rekapp-Prefix.pch 0 1431878796 344 33188
+InputFile    /Users/emiloberg/mobile/native-script/rekapp/platforms/ios/rekapp/rekapp-Prefix.pch 0 1431949793 344 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.3.sdk/usr/include/Availability.h 0 1425672418 8997 33204
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.3.sdk/usr/include/AvailabilityInternal.h 0 1425672418 927384 33204
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h 0 1427684103 5171 33204
